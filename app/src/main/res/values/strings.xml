@@ -1,0 +1,144 @@
+<resources>
+    <string name="app_name">Biển số xe</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="number_province">81</string>
+    <string name="province">Gia Lai</string>
+    <string name="banner_ad_unit_id">ca-app-pub-7318646425575493/6970779964</string>
+    <string name="thanks">Lời đầu tiên, cho phép tác giả xin lỗi về sự bất tiện khi đặt quảng cáo của ứng dụng này. Tiếp cho phép tác giả các ơn các bạn đã sử dụng ứng dụng của mình. Và cũng có những thiếu sót trong quá trình làm ứng dụng này. Bên cạnh đó nếu có sai sót thì bạn cũng có thể liên lạc với bản thân mình qua email và số điện thoại bên dưới.</string>
+    <string name="poem">Cao Bằng 11 chẳng sai \n
+Lạng Sơn Tây Bắc 12 cận kề \n
+13 Hà Bắc mời về (*) \n
+Quảng Ninh 14 bốn bề là than \n
+15, 16 cùng mang\n
+Hải Phòng đất Bắc chứa chan nghĩa tình \n
+17 vùng đất Thái Bình \n
+18 Nam Định quê mình đẹp xinh\n
+Phú Thọ 19 Thành Kinh Lạc Hồng\n
+Thái Nguyên Sunfat, gang, đồng\n
+Đôi mươi (20) dễ nhớ trong lòng chúng ta\n
+Yên Bái 21 ghé qua\n
+
+Tuyên Quang Tây Bắc số là 22\n
+
+Hà Giang rồi đến Lào Cai\n
+
+23, 24 sánh vai láng giềng\n
+
+Lai Châu, Sơn La vùng biên giới\n
+
+25, 26 số liền kề nhau\n
+
+27 lịch sử khắc sâu\n
+
+Đánh tan xâm lược công đầu Điện Biên\n
+
+28 Hòa Bình ấm êm\n
+
+29 Hà Nội liền liền 32\n
+
+33 là đất Hà Tây (*)\n
+
+Tiếp theo 34 đất này Hải Dương\n
+
+Ninh Bình vùng đất thân thương\n
+
+35 là số đi đường cho dân\n
+
+Thanh Hóa 36 cũng gần\n
+
+37, 38 tình thân\n
+
+Nghệ An, Hà Tĩnh ta cần khắc ghi\n
+
+43 Đà Nẵng khó gì\n
+
+47 Đắc Lắc trường kỳ Tây Nguyên\n
+
+Lâm Đồng 49 thần tiên\n
+
+50 Thành Phố tiếp liền 60 (TPHCM 50 - 59)\n
+
+Đồng Nai số 6 lần 10 (60)\n
+
+Bình Dương 61 tách rời mới ra\n
+
+62 là đất không xa\n
+
+Long An Bến Lức khúc ca lúa vàng\n
+
+63 màu mỡ Tiền Giang\n
+
+Vĩnh Long 64 ngày càng đẹp tươi\n
+
+Cần Thơ lúa gạo xin mời\n
+
+65 là số của người Cần Thơ\n
+
+Đồng Tháp 66 trước giờ\n
+
+67 kế tiếp là bờ An Giang\n
+
+68 biên giới Kiên Giang\n
+
+Cà Mau 69 rộn ràng U Minh\n
+
+70 là số Tây Ninh\n
+
+Xứ dừa 71 yên bình Bến Tre\n
+
+72 Vũng Tàu số xe\n
+
+73 xứ QUẢNG vùng quê thanh BÌNH (Quảng Bình)\n
+
+74 Quảng Trị nghĩa tình\n
+
+Cố đô nước Việt Nam mình 75\n
+
+76 Quảng Ngãi đến thăm\n
+
+Bình Định 77 âm thầm vùng lên\n
+
+78 biển số Phú Yên\n
+
+Khánh Hòa 79 núi liền biển xanh\n
+
+81 rừng núi vây quanh\n
+
+Gia Lai phố núi, thị thành Playku\n
+
+Kon tum năm tháng mây mù\n
+
+82 dễ nhớ mặc dù mới ra\n
+
+Sóc Trăng có số 83\n
+
+84 kế đó chính là Trà Vinh\n
+
+85 Ninh Thuận hữu tình\n
+
+86 Bình Thuận yên bình gần bên\n
+
+Vĩnh Phúc 88 vùng lên\n
+
+Hưng Yên 89 nhớ tên nhãn lồng\n
+
+Quãng Nam đất thép thành đồng\n
+
+92 số mới tiếp vòng thời gian\n
+
+93 đất mới khai hoang\n
+
+Chính là Bình Phước bạt ngàn cao su\n
+
+Bạc Liêu mang số 94\n
+
+Bắc Kạn 97 có từ rất lâu\n
+
+Bắc Giang 98 vùng sâu\n
+
+Bắc Ninh 99 những câu Quan họ! \n
+    </string>
+    <string name="mySource">Nguồn: http://www.24h.com.vn/cuoi-24h/tho-vui-ve-bien-so-xe-64-tinh-viet-nam-c70a524049.html</string>
+</resources>
